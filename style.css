@@ -76,9 +76,14 @@ body{
 	width: 90%;
     border: none;
     background-color: hsl(25, 90%, 53%);
-    color: rgb(122, 122, 122);
+    color: rgb(255, 255, 255);
+	font-size: 1.5vh;
+	font-family: 'Overpass', sans-serif;
     border-radius: 40px;
     box-shadow: 0 6px 20px -5px;
 	margin-bottom: 8%;
 	margin-left: 10%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
